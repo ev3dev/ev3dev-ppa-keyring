@@ -1,0 +1,5 @@
+ev3dev-ppa-keyring (1) trusty; urgency=low
+
+  * Initial release.
+
+ -- David Lechner <david@lechnology.com>  Fri, 20 Oct 2017 14:55:38 -0500
